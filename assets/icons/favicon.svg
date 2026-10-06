@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <linearGradient id="fgrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e40af" />
+      <stop offset="100%" stop-color="#3b82f6" />
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="14" fill="url(#fgrad)" />
+  <g fill="#ffffff">
+    <polygon points="32,15 51,23 32,31 13,23" />
+    <path d="M20,27 L20,35 Q32,41 44,35 L44,27 Q32,32 20,27 Z" />
+    <path d="M16,42 Q32,38 32,43 Q32,38 48,42 L48,51 Q32,47 32,52 Q32,47 16,51 Z" fill="#e2e8f0"/>
+  </g>
+</svg>
